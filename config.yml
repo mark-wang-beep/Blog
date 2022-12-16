@@ -1,0 +1,41 @@
+baseURL: https://sichen.wang/
+languageCode: en-us
+title: Sichen Wang's blog
+theme: "PaperMod"
+
+params:
+  # 1. Start: For enabling the home-info mode
+  homeInfoParams:
+    Title: Hi, I am Sichen Wang. I write posts that are helpful for myself.
+    Content: I am a prior football coach ⚽, majored in computer science, interested in blockchain, on the road to become a product manager who is empathetic, creative, and logical.
+
+  socialIcons: # optional
+    - name: "Twitter"
+      url: "https://twitter.com/woosts_me"
+    - name: "GitHub"
+      url: "https://github.com/woosts"
+  # 1. End
+
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+
+# For enabling the search function
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+disqusShortname: sichen-wangs-blog
+
+menu:
+  main:
+    - identifier: archives
+      name: 🗃️ Archives
+      url: /archives/
+      weight: 10
+    - identifier: search
+      name: 🔍 Search
+      url: /search/
+      weight: 20
