@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   # 1. Start: For enabling the home-info mode
   homeInfoParams:
-    Title: Hi, I am Sichen Wang. I write posts that are helpful for myself.
+    Title: Hi, I am Sichen Wang. I write posts that are helpful for myself, and if better, helpful for you.
     Content: I am a prior football coach ⚽, majored in computer science, interested in blockchain, on the road to become a product manager who is empathetic, creative, and logical.
 
   socialIcons: # optional
