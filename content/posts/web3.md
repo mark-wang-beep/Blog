@@ -1,11 +1,9 @@
 ---
-title: "Before you go into the world of web3, what do you need to know?"
+title: "What is web3?"
 date: 2023-01-27T15:29:49+08:00
 ---
 
-Web3 is a popular word and there are many people working in this area, you may want to go into the world and I am trying to write something to help you be ready.
-
-**First, what is web3?**
+Web3 is a popular word and there are many people working in this area.
 
 Web3 means all applications of blockchain.
 
@@ -24,7 +22,7 @@ One usage is to create a ledger which cannot be tampered by bad people, to recor
 
 **So how to implement such a thing? I think it is quite simple, you just need to provide these needed APIs (viewing and appending), and try your best to disallow others to tamper its history.**
 
-Yes, and we’ve never had such a thing before, if you want to know how blockchain disallows others to tamper its history, you can read [my another post](https://www.notion.so/8ad3ec3c96754037bf168d1deece97b6).
+Yes, and we’ve never had such a thing before, if you want to know how blockchain disallows others to tamper its history, you can read [my another post](https://www.notion.so/What-is-web3-wallet-f5878ca49cff41fbbb7e407d0328a81b).
 
 **Can you tell me more applications of blockchain?**
 
@@ -36,7 +34,7 @@ A difference between bitcoin and fiat currency 💴 is the total amount of bitco
 
 So one value of bitcoin is as a store of value, like gold, whose number is also fixed. And bitcoin is actually a better gold because we know the exact amount of bitcoin but we can only estimate the amount of gold.
 
-If you want to know more values of bitcoin, you can read [my another post](https://www.notion.so/5d246c9f54f5485e89121c7b51f9b575).
+If you want to know more values of bitcoin, you can read [my another post](https://www.notion.so/What-are-the-values-of-bitcoin-3875396e215b4333afaf880147ace8cb).
 
 **How can bitcoin’s total amount be fixed?**
 

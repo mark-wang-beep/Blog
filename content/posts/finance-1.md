@@ -3,9 +3,7 @@ title: "What is finance? (1)"
 date: 2023-01-29T16:10:20+08:00
 ---
 
-**What is finance?**
-
-Put it simply, finance means the flow of money. I will explain finance in different versions to you by adding more entities to it.
+Put it simply, finance means the flow of money. I will explain finance to you by adding more entities to it.
 
 # Level 1
 
@@ -27,7 +25,9 @@ Not everyone can meet Amy when he needs money to do something, to solve this pro
 1. More Amy: people who want to make money from their money, instead of just putting them at home.
 2. More you: people who need money to create more values and promise to payback with more money.
 
-So people can store their money in bank, and bank can find believable people who need money and borrow them money. As a middleman doing these efforts, bank can also gain intermediary fee.
+So people can store their money in bank, and bank can find believable people who need money and borrow them money. In another word, bank collect some people’s money, and use these money in places where larger values can be created.
+
+As a middleman doing these efforts, bank can also gain intermediary fee.
 
 A triple-wins situation!
 
@@ -39,7 +39,7 @@ Banks at level 2 may refuse to borrow money to you since the risk can be too hig
 
 So you have to find people who trust your idea and would like to invest money to you.
 
-Because this is a new idea, it may fail, so you and your investor make an agreement that if success, the investor can earn more than borrowers, if failed, you don’t need to return the money back.
+Because this is a new idea, it may fail, so you and your investor make an agreement that if success, the investor can earn more than borrower, if failed, you don’t need to return the money back.
 
 You can see that I use “investor” instead of “borrower”, because there are some differences.
 
@@ -50,7 +50,7 @@ In level 3:
 
 This is called equity investment, which means you own a part of the company, you need to accept that you may not be able to get your money back.
 
-I will continue the next 2 levels in my next post.
+I will continue the next 2 levels in [my next post](/posts/finance-2).
 
 ---
 
