@@ -5,22 +5,22 @@ date: 2023-02-02T14:39:38+08:00
 
 Product management is about:
 
-1. Create focus.
-2. Translate it into something that’s actionable for a lot of different collaborators.
+1. Create focus,
+2. translate it into something that’s actionable for a lot of different collaborators.
 
 A good product is an intersection of 3 elements:
 
 - Desirability: users want.
-- Feasibility: we can build it out.
+- Feasibility: we can build it.
 - Viability: we can run in continuously.
 
 **PM will start with desirability, then translate it into feasibility and viability.**
 
 To create desirability, you need to go to the customer and create a testable focus around who that customer is, and what’s really important to them.
 
-Then, we work to translate that focus into something that’s actionable across these different areas.
+Then, you work to translate that focus into something that’s actionable across these different areas.
 
-If you don’t do that, you can feel like you are too busy all the time, because you forget what is the most important things, or, the things to focus.
+If you don’t do that, you can feel like you are too busy all the time, because you forget what is the most important things, which are things you should focus on.
 
 **How to check whether you are suitable to become a PM?**
 
