@@ -12,7 +12,7 @@ A good product is an intersection of 3 elements:
 
 - Desirability: users want.
 - Feasibility: we can build it.
-- Viability: we can run in continuously.
+- Viability: financially possible.
 
 **PM will start with desirability, then translate it into feasibility and viability.**
 
