@@ -1,5 +1,5 @@
 ---
-title: "10 thoughts of this week, mainly about personal growth"
+title: "Small thoughts, week 1, mainly about personal growth"
 date: 2023-03-26T23:06:57+08:00
 ---
 
