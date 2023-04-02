@@ -3,6 +3,11 @@ title: "How to Influence Others without Authority: The Power of Listening, Empat
 date: 2023-04-01T23:23:14+08:00
 ---
 
+## Summary
+
+1. Listen with a goal.
+2. Understand before influence.
+
 ## Introduction
 
 Influencing others without holding a position of authority can be a challenging task. However, it is not impossible. People are often more inclined to listen to someone who genuinely cares about them and their objectives, rather than someone who simply displays vast knowledge or strong logical thinking. In this article, we will explore techniques to influence others effectively without relying on authority, using an illustrative example from the world of insurance marketing in the 19th century.
